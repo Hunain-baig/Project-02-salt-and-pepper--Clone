@@ -117,7 +117,7 @@ p{
     display: flex;
     flex-wrap: wrap;
     margin-top: 3%;
-    margin-left: 270px;
+    margin-left: 210px;
     gap: 40px;
     padding-bottom: 50px;
 }
@@ -248,7 +248,7 @@ div.container_big{
 }
 
 #d_btn{
-    margin-top: 30px;
+    margin-top: 40px;
     margin-left: 150px;
 }
 
@@ -257,7 +257,7 @@ margin-left: 300px;
 }
 
 #ddd_btn{
-margin-left: 400px;
+margin-left: 350px;
 }
 
 /* village ranchise started */
@@ -270,9 +270,9 @@ margin-left: 400px;
 
 
 .text_2big{
-    margin:10px 0px 0px  99px;
-    padding: 50px;
-    font-size: 31px;
+    margin:10px 0px 0px  79px;
+    padding: 40px;
+    font-size: 25px;
 }
 
 .b22ig_text{
@@ -344,8 +344,11 @@ font-size: 25px;
 
 /* express franchises opening soon ended  */
 
+
+/* social started */
+
 .container_socialimg{
-    display: flex;
+    margin-left:50px ;
     margin-top: 50px;
     gap: 20px;
 }
@@ -353,6 +356,8 @@ font-size: 25px;
 .social_img{
     width: 19%;
 }
+
+/* social end */
 
 /* express franchise opening soon ended */
 
